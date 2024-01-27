@@ -1,16 +1,16 @@
-# Aula de lógica 🚀
+# Título do repositório🚀
 
-Uilizamos da criação de um fluxograma para entender alguns pradões de algoritmos. 
+Um parágrafo da descrição do projeto vai aqui
 
 # 🔌Como fazer funcionar na sua máquina:
 
-- Baixe, clicando em Download
-
+- Instale Python na sua máquina;
+- Instale a biblioteca tal….
 
 # 📋Pré-requisitos do sistema:
 
 > Exemplo
-
+> 
 
 ## 🛠️Tecnologias utilizadas:
 
